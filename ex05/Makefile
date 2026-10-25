@@ -1,4 +1,4 @@
-NAME= HiBrain
+NAME= Harl
 
 SRC= main.cpp Harl.cpp
 
